@@ -1,0 +1,80 @@
+
+        title: wiledeyes
+
+        Main slider:
+                take a virtual field trip
+                watch the trailer in 360 now
+
+        Section1:   
+           
+            Light weight text.
+            wait, so how does it work?
+            we use specialy designed cameras to capture the natural world in 360-degrees
+            
+            
+        Section2:
+                        1.
+                        capture
+                        nature in 360
+                        Our production team will be traveling all over the country visiting one-of-a-kind natural habitats – but instead of filming a beautiful shot, we will be capturing a beautiful moment in 360-degrees.
+                        subscribe to see more
+                   
+        Section3:
+                        2.
+                        download
+                        using a mobile device
+                        Google’s Cardboard VR headset design allows for anyone to use their mobile phone as a virtual reality viewing device. Simply open the front of the viewer, place your phone snuggly inside, and you are ready to view any VR content.
+                        subscribe to get yours!
+                   
+        Section4:
+                        3.
+                        look around
+                        with your wiledeyes vr headset
+                        When using the VR headset the video responds to the viewer’s movements: If you look to the right, the video will move to the right – creating a unique, engaging  interaction between viewer and their environment.
+                        subscribe to get yours!
+                        
+                        
+                        
+        Section5:    
+                        
+                    explore
+                    education
+                    using virtual reality to create an educational and immersive experience
+                    We are working with designers, educational organizations, and teachers to produce interactive lessons that allow the viewer to see a realistic depiction of the lessons they are learning including Biology, Physics, and Earth Sciences.
+            
+
+
+
+        Section6:
+                1
+                    vibrant visuals 
+                    We combine animated motion graphics with full 360 environments for an engaging and exciting visual experience.
+                    
+                2
+                    stimulating sounds
+                    Scientsts and conservationists have helped us incorporate realistic and immersive soundscapes to mimic the natural world.
+                    
+                3
+                    engaging experience
+                    Both the audio and visuals are created in an interactive way so that every time is a unique experience.
+                    
+       
+       
+        Section7:
+                want to try?
+                bring the wiledeyes project to your school or event
+                sign up for our mailing list
+            
+            
+        Section8:   
+                thank you to our frinds for their support
+                
+        Section9: footer
+            links to:
+                    facebook
+                    pinterest
+                    twitter
+                    instagram
+                    youtube
+                
+        

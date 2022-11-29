@@ -1,0 +1,268 @@
+/* CSS Document */
+/*Start Public Style*/
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	height: 30000px;
+}
+/*Start Shared Elements*/
+.container{
+	width: 86%;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.trans-button{
+	color: #ffffff;
+	border: 2px solid #ffffff;
+}
+
+.btn{
+	text-transform: uppercase;
+	padding: 20px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+/* ************ Start Main header *************/
+
+.main-header{
+	width: 100%;
+	height: 700px;
+	background-image: url("images/Top_banner21.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 50px;
+	box-sizing: border-box;
+	
+}
+
+.header-logo{
+	max-width: 250px;
+	display: block;
+	margin: 40px auto;
+	
+}
+
+.main-header h1{
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size: 50px;
+}
+
+
+.main-header .trans-button{
+	margin-top: 180px;
+}
+
+
+/* ************ End Main Header *************/
+
+
+/* ************ Start How Section *************/
+.how-section{
+	width: 100%;
+	text-align: center;
+	margin: 70px auto;
+	text-transform: uppercase;
+}
+
+
+.how-section h2{
+	font-size: 35px;
+    color:#000000;
+    font-weight: bold;
+}
+.how-section p{
+    color:#999999;
+    margin: 30px;
+	font-size: 16px;
+}
+
+/* ************ End How Section *************/
+
+
+/* ************ Start Steps Section *************/
+
+.step-section{
+	width: 100%;
+	margin: 70px auto;
+	
+
+}
+
+.step-img{
+	width: 60%;
+	box-sizing: border-box;
+	padding: 40px;
+/*	float: left;*/
+}
+.step-img img{
+	max-width: 100%;
+}
+
+.step-content{
+	width:40%;
+	box-sizing: border-box;
+	padding: 40px;
+/*	display: inline-block;*/
+/*	float: left;*/
+}
+.left-step{
+	float: left;
+}
+.right-step{
+	float: right;
+}
+
+.step-content h2{
+	font-family:serif;
+	color:#ec7a5c;
+	font-size: 70px;
+	font-weight: bolder;
+	margin: 20px 0px;
+}
+
+.step-content h4{
+	color:#999999;
+	font-size: 16px;
+	margin: 20px 0px;
+	text-transform: uppercase;
+}
+.step-content h3{
+	font-size: 30px;
+	margin: 20px 0px;
+	text-transform: uppercase;
+}
+
+.step-content p{
+	color:#999999;
+	font-size: 20px;
+	margin: 20px 0px;
+	
+}
+
+.colored-btn{
+	color: #ffffff;
+	background-color: #ec7a5c;
+	
+}
+
+
+
+
+
+/* ************ End Steps Section *************/
+
+
+/* ************ Start Explore Section *************/
+.explore-section{
+	width: 100%;
+	margin: 70px auto;
+	text-align: center;
+}
+
+.explore-section h2{
+	font-family:serif;
+	color:#ec7a5c;
+	font-size: 70px;
+	font-weight: bolder;
+	margin: 20px 0px;
+	
+}
+
+.explore-section h4{
+	color:#999999;
+	font-size: 16px;
+	margin: 20px 0px;
+	text-transform: uppercase;
+}
+
+
+.explore-section h3{
+	font-size: 30px;
+	margin: 20px 0px;
+	text-transform: uppercase;
+	font-weight: bolder;
+}
+
+.explore-section p{
+	color:#999999;
+	font-size: 20px;
+	width: 80%;
+	margin: 20px auto;
+}
+/* ************ End Explore Section *************/
+
+
+/* ************ Start Explore cards Section *************/
+
+.ecards-section{
+	width: 100%;
+	margin: 70px auto;
+	text-align: center;
+}
+
+.ecards-section .card{
+	width: 30%;
+	margin: 0px 1.6%;
+	box-sizing: border-box;
+	padding: 30px;
+	float: left;
+}
+
+.ecards-section .card i{
+	color: #ec7a5c;
+	font-size: 60px;
+	margin: 30px;
+}
+
+.ecards-section .card h3{
+	text-transform: uppercase;
+	font-size: 16px;
+	margin: 20px 0px;
+}
+
+.ecards-section .card p{
+	color:#999999;
+	font-size: 16px;
+	margin: 20px auto;
+}
+
+
+.iPad-img{
+	display: inline-block;
+	margin: 0px auto;
+	width: 80%;
+	
+}
+/* ************ End Explore cards Section *************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
